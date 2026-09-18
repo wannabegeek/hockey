@@ -55,6 +55,8 @@ Example (our half, our goal at the bottom):
 
 - Who is injecting and who is stopping.
 - Proposal: have 2 castles, so it isn't clear to the opposition where to run.
+  The 2nd castle could just be a dummy: they don't need to be able to stop or
+  strike.
 
 #### 1. Straight strike (first option)
 
@@ -80,9 +82,9 @@ Options 1 and 2:
 A disguised play off the normal setup:
 
 1. Inject as normal to the castle at the top of the D.
-2. Either the stopper or the hitter/flicker passes to the right slip.
-3. The right slip immediately knocks it back to the hitter/flicker on the penalty
-   spot for the shot.
+2. Either the stopper or the striker passes to the right slip.
+3. The right slip immediately knocks it back to the striker on the penalty spot
+   for the shot.
 
 ![Penalty corner option 3: right slip](pc-3-right-slip.jpg)
 
@@ -111,6 +113,7 @@ Two defenders on either side of the goal:
 #### Outlets
 
 - The two players at the halfway line need to get back to the 25, so the
-  defenders have an outlet to either side.
+  defenders have an outlet to either side. This lets us clear the ball quickly
+  and launch a fast counter attack.
 
 ![Defending penalty corner: runners, postmen and outlets](pc-defending.jpg)
