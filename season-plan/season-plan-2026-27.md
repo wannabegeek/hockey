@@ -1,0 +1,116 @@
+# Season Plan 2026/27
+
+## Principles
+
+- Keep it simple unless we can threaten the D. Ball retention comes first:
+  - Think about the outcome. After you've had the ball, does our team still have
+    possession?
+  - If it's a 50/50 pass, don't make it. Go for the option with a higher
+    probability of success.
+- If we are down to 10, revert to a half-court press immediately, unless we are
+  losing in the last 5 minutes.
+- Execute presses to the best of our ability.
+- In the defensive triangle and final third, we man mark.
+- Out of possession, we push the ball (opposition) to our right side of the pitch
+  where possible.
+- **No chat to the umpires, opposition or team mates, and no silly cards
+  (unneeded fouls).**
+- Enjoy your hockey, and help make it enjoyable for everyone else too.
+
+## Formation
+
+We will typically play a **4-1-3-2 diamond**: 4 at the back, a diamond of 4 in
+midfield (1 holding, 3 ahead of them), and 2 up front.
+
+Example (our half, our goal at the bottom):
+
+![4-1-3-2 diamond formation](formation-4-1-3-2.jpg)
+
+| Line | Players | Position in the example |
+|------|---------|-------------------------|
+| Goalkeeper | 1 | In goal |
+| Defence (4) | Sweeper | Centre, inside the D in front of the penalty spot |
+| | Left back, right back | Wide, level with the edge of the dashed circle |
+| | Centre half | Centre, on the dashed circle in front of the D |
+| Holding mid (1) | Defensive mid | Centre, just in front of our 25 |
+| Midfield (3) | Left mid, right mid | Inside channels, between the 25 and halfway |
+| | Attacking mid | Centre, just short of halfway |
+| Forwards (2) | Left forward, right forward | Wide, on the halfway line |
+
+## Substitutions
+
+- Rotate approximately every 7 minutes.
+- Players will typically need to take responsibility for their own rotations
+  (unless we have someone helping on the side).
+- We are all in this team on merit, so rotations should be fair, with roughly
+  equal pitch time for each player.
+- Sometimes (and sometimes often) you'll have to play out of your preferred
+  position.
+
+## Penalty Corners
+
+### Attacking
+
+#### To discuss before the first game
+
+- Who is injecting and who is stopping.
+- Proposal: have 2 castles, so it isn't clear to the opposition where to run.
+
+#### 1. Straight strike (first option)
+
+- **Purpose:** test the keeper, identify runners, scare defenders, and set up for
+  the next flick.
+- Keep the ball wide. It may go head-high, but that's acceptable for the first
+  corner.
+- **Exception:** if U16s or juniors are defending, don't intentionally strike at
+  head height. It isn't in the spirit of the game.
+
+#### 2. Flick (second option)
+
+- Choose a side and send runners accordingly.
+- If flicking left: get the rebound runner and postman on the left side.
+- If flicking bottom right: the runner goes to the back post.
+
+Options 1 and 2:
+
+![Penalty corner options 1 and 2: straight strike and flick](pc-1-2-strike-flick.jpg)
+
+#### 3. Right slip (third option)
+
+A disguised play off the normal setup:
+
+1. Inject as normal to the castle at the top of the D.
+2. Either the stopper or the hitter/flicker passes to the right slip.
+3. The right slip immediately knocks it back to the hitter/flicker on the penalty
+   spot for the shot.
+
+![Penalty corner option 3: right slip](pc-3-right-slip.jpg)
+
+### Defending
+
+The back 4 defend corners (unless someone doesn't want to). The setup is up to the
+GK, but generally:
+
+#### Starting positions
+
+Two defenders on either side of the goal:
+
+| Left side | Right side |
+|-----------|------------|
+| No. 1 runner (runs from the left post) | No. 2 runner (runs from the right) |
+| Left postman | Right postman (on the right post) |
+
+#### On the injection
+
+- **No. 1 runner:** to the ball.
+- **No. 2 runner:** to just beyond the penalty spot.
+- **Right postman:** to just short of the penalty spot, but cover back to the
+  injector.
+- **Left postman:** cover the post.
+
+#### Outlets
+
+- The two players at the halfway line need to get back to the 25, so the
+  defenders have an outlet to either side.
+
+![Defending penalty corner: runners, postmen and outlets](pc-defending.jpg)
