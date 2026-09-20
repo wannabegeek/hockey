@@ -43,7 +43,8 @@ Example (our half, our goal at the bottom):
 - Players will typically need to take responsibility for their own rotations
   (unless we have someone helping on the side).
 - We are all in this team on merit, so rotations should be fair, with roughly
-  equal pitch time for each player.
+  equal pitch time for each player. Make the captain aware if you feel this
+  isn't happening.
 - Sometimes (and sometimes often) you'll have to play out of your preferred
   position.
 
@@ -60,8 +61,18 @@ Example (our half, our goal at the bottom):
 
 #### 1. Straight strike (first option)
 
-- **Purpose:** test the keeper, identify runners, scare defenders, and set up for
-  the next flick.
+**On our first penalty corner of the match, we hit the ball.** Why:
+
+- It tests the keeper: how they set, and how they handle pace.
+- It scares the defenders. Runners who have been hit once are often slower and
+  less committed on the corners that follow.
+- It shows us who their runners are and how they come out, so we know what we're
+  working with later.
+- It sets up the next corner: once they expect the hit, the flick and the slip
+  are more likely to come off.
+
+Executing it:
+
 - Keep the ball wide. It may go head-high, but that's acceptable for the first
   corner.
 - **Exception:** if U16s or juniors are defending, don't intentionally strike at
