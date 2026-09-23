@@ -1,6 +1,6 @@
 # Season Plan 2026/27
 
-## Principles
+## Our Approach
 
 - Keep it simple unless we can threaten the D. Ball retention comes first:
   - Think about the outcome. After you've had the ball, does our team still have
@@ -9,7 +9,6 @@
     probability of success.
 - If we are down to 10, revert to a half-court press immediately, unless we are
   losing in the last 5 minutes.
-- Execute presses to the best of our ability.
 - In the defensive triangle and final third, we man mark.
 - Out of possession, we push the ball (opposition) to our right side of the pitch
   where possible.
@@ -39,9 +38,9 @@ Example (our half, our goal at the bottom):
 
 ## Substitutions
 
-- Rotate approximately every 7 minutes.
 - Players will typically need to take responsibility for their own rotations
   (unless we have someone helping on the side).
+- Rotate approximately every 7 minutes.
 - We are all in this team on merit, so rotations should be fair, with roughly
   equal pitch time for each player. Make the captain aware if you feel this
   isn't happening.
@@ -123,8 +122,8 @@ Two defenders on either side of the goal:
 
 #### Outlets
 
-- The two players at the halfway line need to get back to the 25, so the
-  defenders have an outlet to either side. This lets us clear the ball quickly
+- Two of the players at the halfway line need to get back to the 25, so the
+  defenders have an outlet to either side. This allows us to clear the ball quickly
   and launch a fast counter attack.
 
 ![Defending penalty corner: runners, postmen and outlets](pc-defending.jpg)
