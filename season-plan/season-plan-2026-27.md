@@ -61,8 +61,7 @@ Example (our half, our goal at the bottom):
 
 Executing it:
 
-- Keep the ball wide. It may go head-high, but that's acceptable for the first
-  corner.
+- It may go head-high, but that's acceptable for the first corner.
 - **Exception:** if U16s or juniors are defending, don't intentionally strike at
   head height. It isn't in the spirit of the game.
 
