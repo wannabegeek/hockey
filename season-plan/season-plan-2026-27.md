@@ -14,7 +14,7 @@
   losing in the last 5 minutes.
 
 > **Above all: enjoy your hockey, and help make it enjoyable for everyone else
-> too.** It's the whole reason we're here.
+> too.**
 
 ## Formation
 
