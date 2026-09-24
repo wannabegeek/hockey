@@ -1,5 +1,3 @@
-# Season Plan 2026/27
-
 ## Our Approach
 
 - Keep it simple unless we can threaten the D. Ball retention comes first:
