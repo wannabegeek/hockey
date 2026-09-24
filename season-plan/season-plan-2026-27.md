@@ -7,14 +7,16 @@
     possession?
   - If it's a 50/50 pass, don't make it. Go for the option with a higher
     probability of success.
-- If we are down to 10, revert to a half-court press immediately, unless we are
-  losing in the last 5 minutes.
 - In the defensive triangle and final third, we man mark.
 - Out of possession, we push the ball (opposition) to our right side of the pitch
   where possible.
 - **No chat to the umpires, opposition or team mates, and no silly cards
   (unneeded fouls).**
-- Enjoy your hockey, and help make it enjoyable for everyone else too.
+- If we are down to 10, revert to a half-court press immediately, unless we are
+  losing in the last 5 minutes.
+
+> **Above all: enjoy your hockey, and help make it enjoyable for everyone else
+> too.** It's the whole reason we're here.
 
 ## Formation
 
@@ -35,17 +37,6 @@ Example (our half, our goal at the bottom):
 | Midfield (3) | Left mid, right mid | Inside channels, between the 25 and halfway |
 | | Attacking mid | Centre, just short of halfway |
 | Forwards (2) | Left forward, right forward | Wide, on the halfway line |
-
-## Substitutions
-
-- Players will typically need to take responsibility for their own rotations
-  (unless we have someone helping on the side).
-- Rotate approximately every 7 minutes.
-- We are all in this team on merit, so rotations should be fair, with roughly
-  equal pitch time for each player. Make the captain aware if you feel this
-  isn't happening.
-- Sometimes (and sometimes often) you'll have to play out of your preferred
-  position.
 
 ## Penalty Corners
 
